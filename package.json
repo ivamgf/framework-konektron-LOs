@@ -1,0 +1,27 @@
+{
+  "name": "framework-konektron-los",
+  "version": "1.0.0",
+  "description": "framework konektron Learning Objects Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivamgf/framework-konektron-LOs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivamgf/framework-konektron-LOs/issues"
+  },
+  "homepage": "https://github.com/ivamgf/framework-konektron-LOs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
