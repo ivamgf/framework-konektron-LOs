@@ -1,0 +1,27 @@
+{
+    "name": "metadado-oas",
+    "version": "1.0.0",
+    "head": {
+       "metadata-standards": "Dublin-Core",
+       "organization": "Dublin Core Metadata Initiative(DCMI)" 
+   },
+   "metadata": {
+       "attributes": {
+          "identifier": "",
+          "collaborator": "",
+          "coverage": "",
+          "creator": "",
+          "date": "",
+          "description": "",
+          "format": "",
+          "language": "",
+          "publisher": "",
+          "relationship": "",
+          "rights": "",
+          "source": "",
+          "subject-matter": "",
+          "title": "",
+          "resource-type": ""
+       }
+   }
+}
